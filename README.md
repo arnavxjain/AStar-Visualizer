@@ -14,5 +14,5 @@
 
 ## Run the program for yourself 👇
 - Clone the files onto your desktop
-- Open yuor editor
+- Open your editor
 - To run from the terminal type `python main.py` or simply run the program using the IDE. 
