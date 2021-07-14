@@ -15,11 +15,7 @@
 ## Run the program for yourself 👇
 - Clone the files onto your desktop
 - Open your editor
-<<<<<<< HEAD
-- To run from the terminal type `python main.py` or simply run the program using the IDE. 
-=======
 - To run from the terminal type `python main.py` or simply run the program using the IDE. 
 
 ## This is what the app looks like 
 ![image](https://user-images.githubusercontent.com/70736942/125573518-00bdff05-ed69-48d1-80eb-0750d3f1c5e3.png)
->>>>>>> 8d5eb5e7fa1c822b1e660b6d0b9dfb1e226933be
